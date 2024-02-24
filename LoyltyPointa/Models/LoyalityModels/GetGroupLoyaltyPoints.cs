@@ -6,6 +6,5 @@
 
         public string ErrorMsg { get; set;}
 
-        public SSLLoyaltyDetails SSLLoyaltyDetails { get; set;}
     }
 }
